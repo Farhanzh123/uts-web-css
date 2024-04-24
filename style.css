@@ -1,0 +1,1407 @@
+.frame-1 .arrow-right-21 {
+  width: 40px;
+  height: 40px;
+}
+.frame-1 .iconly-bulk-arrow-right-21 {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.frame-1 .aniku {
+  margin: 10px 0 6px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .container-24 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame-1 .search-anime {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.frame-1 .group-1 {
+  border-radius: 5px;
+  background: rgba(197, 255, 248, 0.5);
+  position: relative;
+  margin: 4px 0 6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 48.9px 4px 0;
+  width: 200px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .container-29 {
+  background: linear-gradient(90deg, #5FBDFF, #0075FF);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.frame-1 .home {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.frame-1 .menu1 {
+  border-radius: 5px;
+  background: #96EFFF;
+  position: relative;
+  margin: 0 24px 4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 28px 0 24px 0.2px;
+  width: 90px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .anime-list {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.frame-1 .menu2 {
+  border-radius: 5px;
+  margin: 28px 38.3px 28px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-1 .genre-list {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.frame-1 .group-4 {
+  border-radius: 5px;
+  margin: 28px 34.3px 28px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-1 .jadwal-rilis {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.frame-1 .group-5 {
+  border-radius: 5px;
+  margin: 28px 44.8px 28px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-1 .anime-terbaru {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.frame-1 .group-6 {
+  border-radius: 5px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-1 .container-40 {
+  background: linear-gradient(90deg, #0075FF);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 5px 0 1px 5px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.frame-1 .anime-terbaru-1 {
+  margin: 7px 6px 6px 0;
+  display: inline-block;
+  width: 797px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.frame-1 .cek-anime-terbaru-selengkapnya {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-10 {
+  background: #96EFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px 6.3px 5px 7px;
+  box-sizing: border-box;
+}
+.frame-1 .container-13 {
+  background: #0075FF;
+  position: relative;
+  margin-right: 5.8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 10px;
+  width: 1000px;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-8 {
+  background: #FFFFFF;
+  margin: 0 5.8px 27px 0;
+  width: 1000px;
+  height: 5px;
+}
+.frame-1 .rectangle-1711 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-1101 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-25 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-34 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-5 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-11 {
+  position: relative;
+  margin: 0.6px 0 0.4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-17 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-1 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11011 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-21 {
+  margin: 10px 13.2px 26.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-1 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-35 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-33 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-12 {
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-171 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-2 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11012 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-2 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-23 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-16 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-13 {
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-172 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-3 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11013 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-42 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-3 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-8 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-38 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-14 {
+  position: relative;
+  margin: 0.4px 0 0.6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .container-43 {
+  margin: 0 0 21.7px 10px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-173 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-4 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11014 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-50 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-4 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-46 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-51 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-15 {
+  position: relative;
+  margin: 0.6px 0 0.4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-175 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-6 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11016 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-17 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-6 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-11 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-31 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-17 {
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-174 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-5 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11015 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-9 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-5 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-20 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-14 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-16 {
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-176 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-7 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11017 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-26 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-7 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-48 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-1 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-18 {
+  position: relative;
+  margin: 0.4px 0 0.6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .container-36 {
+  margin: 0 0 22.7px 10px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-177 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-8 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11018 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-3 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-8 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-28 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-37 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-19 {
+  position: relative;
+  margin: 0.6px 0 0.4px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-179 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-10 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-110110 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-39 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-10 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-45 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-32 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-23 {
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-178 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-9 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-11019 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-7 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-9 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-12 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-4 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-21 {
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-1710 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #0075FF;
+  position: absolute;
+  left: 4.5px;
+  right: 0px;
+  bottom: 0px;
+  height: 235.4px;
+}
+.frame-1 .vector-11 {
+  margin-right: 6px;
+  width: 20px;
+  height: 16px;
+}
+.frame-1 .episode-110111 {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-49 {
+  background: #D9D9D9;
+  position: relative;
+  margin-bottom: 193px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 11.2px 2px 4px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .kimetsu-no-yaiba-11 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.frame-1 .container-41 {
+  background: #D9D9D9;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 3px 0.1px 2px 0;
+  width: 229px;
+  box-sizing: border-box;
+}
+.frame-1 .container-19 {
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.1);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 0.4px 0.3px 2px 0;
+  box-sizing: border-box;
+}
+.frame-1 .group-25 {
+  position: relative;
+  margin: 0.4px 0 0.6px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 4.5px 6px 0;
+  box-sizing: border-box;
+}
+.frame-1 .container-44 {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 20.2px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .container-21 {
+  margin: 10px 13.2px 26.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.frame-1 .rectangle-10 {
+  background: linear-gradient(180deg, #5FBDFF, #0075FF);
+  position: absolute;
+  left: 50%;
+  top: 22px;
+  translate: -50% 0;
+  width: 358px;
+  height: 145px;
+}
+.frame-1 .arrow-right-2 {
+  width: 20px;
+  height: 20px;
+}
+.frame-1 .iconly-bulk-arrow-right-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.frame-1 .container-18 {
+  background: #96EFFF;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.frame-1 .aniku-1 {
+  margin: 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .group-244 {
+  position: relative;
+  margin-bottom: 64px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .flogo-rgb-blue-5121 {
+  background: url('images/flogoRgbBlue5121.png') 50% / cover no-repeat;
+  margin-right: 5px;
+  width: 10px;
+  height: 10px;
+}
+.frame-1 .ikuti-facebook-aniku {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 5px;
+  color: #000000;
+}
+.frame-1 .group-7 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  flex-direction: row;
+  padding: 5px 7px;
+  box-sizing: border-box;
+}
+.frame-1 .ellipse-2 {
+  border-radius: 0.8px;
+  background: #000000;
+  margin: 0 0 0.5px 1.6px;
+  width: 1.5px;
+  height: 1.5px;
+}
+.frame-1 .rectangle-13 {
+  border-radius: 5px;
+  transform: rotate(12.742deg);
+  margin-right: 0.4px;
+  width: 2.8px;
+  height: 6.2px;
+}
+.frame-1 .group-10 {
+  border-radius: 5px;
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 8.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 3.4px 0.9px 3.5px;
+  width: 10px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .pelajari-selengkapnya {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 5px;
+  color: #000000;
+}
+.frame-1 .group-8 {
+  border-radius: 5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  padding: 5px 7px 5px 3.9px;
+  box-sizing: border-box;
+}
+.frame-1 .container-27 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 333px;
+  box-sizing: border-box;
+}
+.frame-1 .container-22 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 37px 708px 32px;
+  box-sizing: border-box;
+}
+.frame-1 .container-52 {
+  margin-left: 19px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .arrow-right-22 {
+  width: 20px;
+  height: 20px;
+}
+.frame-1 .iconly-bulk-arrow-right-22 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.frame-1 .container-47 {
+  background: #96EFFF;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.frame-1 .aniku-2 {
+  margin: 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.frame-1 .group-245 {
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame-1 .footer-menu {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .genre-list-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .jadwal-rilis-1 {
+  margin: 0 19.2px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .anime-terbaru-2 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .group-247 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1 .terms-of-use {
+  margin: 0 5.6px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .cookies-use {
+  margin: 0 12.1px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .privacy-policy {
+  margin-bottom: 8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .contact {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .group-246 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1 .anikugmail-com {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  line-height: 1.833;
+  color: #000000;
+}
+.frame-1 .vector-12 {
+  width: 20px;
+  height: 20px;
+}
+.frame-1 .icontwitter-brand {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.frame-1 .vector-13 {
+  width: 20px;
+  height: 19.9px;
+}
+.frame-1 .iconfacebook-brand {
+  margin-bottom: 0.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 20px;
+  height: 19.9px;
+  box-sizing: border-box;
+}
+.frame-1 .vector-14 {
+  width: 20px;
+  height: 14px;
+}
+.frame-1 .iconyoutube-brand {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 20px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.frame-1 .container {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  column-gap: 16px;
+  width: 92px;
+  box-sizing: border-box;
+}
+.frame-1 .container-30 {
+  margin-bottom: 54px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1 .container-6 {
+  background: linear-gradient(90deg, #5FBDFF, #0075FF);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 50px 0 83px 100px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #5FBDFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
